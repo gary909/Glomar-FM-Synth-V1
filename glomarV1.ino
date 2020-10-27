@@ -12,6 +12,7 @@
 ****************************************************
 V1 Combine FM Synth sketch and MIDI sketch
 Status: Not yet completed, Only FM Sketch added
+                -ANSI Regualr text-
 ****************************************************
 */
 
